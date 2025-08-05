@@ -1,0 +1,6 @@
+incident_id,bus_id,type,description,timestamp
+1,1,"Missed Pickup","Student not present at stop","2025-08-03 07:50:00"
+2,2,Delay,"Traffic congestion","2025-08-03 08:25:00"
+3,3,Overcrowding,"Exceeded bus capacity","2025-08-03 08:10:00"
+4,4,"Speed Limit Violation","Speed exceeded 50 km/h","2025-08-03 08:20:00"
+5,5,"Missed Drop","Student not dropped at correct stop","2025-08-03 08:35:00"

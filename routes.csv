@@ -1,0 +1,6 @@
+route_id,start_point,end_point,expected_duration
+1,"Main Gate","Block A",15
+2,"Station Road","Block B",25
+3,"North Street","Admin Office",30
+4,"Village Square","College Campus",35
+5,"City Park",Hostel,20
